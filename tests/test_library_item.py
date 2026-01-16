@@ -6,7 +6,7 @@ the following command:
 
 """
 __author__ = "Robinpreet Kaur"
-__version__ = ""
+__version__ = "1.0.0"
 
 import unittest
 from library_item.library_item import LibraryItem 
